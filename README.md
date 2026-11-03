@@ -10,3 +10,5 @@ Contributions are welcome.
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+This project uses GitHub Actions for CI.
