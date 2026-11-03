@@ -1,2 +1,7 @@
 Collaboration Demo Project
 Version 1.0
+
+Main Features:
+- Git collaboration
+- Issue tracking
+- Pull Request workflow
